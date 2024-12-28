@@ -222,3 +222,4 @@ C:\Users\Macsauce\Documents\C# API Projects\MyFirstApi\bin\Debug\net8.0\tr\Micro
 C:\Users\Macsauce\Documents\C# API Projects\MyFirstApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Macsauce\Documents\C# API Projects\MyFirstApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Macsauce\Documents\C# API Projects\MyFirstApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Macsauce\Documents\C# API Projects\MyFirstApi\obj\Debug\net8.0\MyFirstApi.sourcelink.json
